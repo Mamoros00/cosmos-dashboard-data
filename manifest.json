@@ -1,0 +1,13 @@
+{
+  "companies": [
+    {
+      "id": "teisa",
+      "name": "Teisa",
+      "files": {
+        "chargers": "teisa/chargers.xlsx",
+        "sessions": "teisa/sessions.xlsx",
+        "alarms": "teisa/alarms.xlsx"
+      }
+    }
+  ]
+}
