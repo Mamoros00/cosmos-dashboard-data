@@ -8,6 +8,33 @@
         "sessions": "teisa/sessions.xlsx",
         "alarms": "teisa/alarms.xlsx"
       }
+    },
+    {
+      "id": "a2a",
+      "name": "A2A",
+      "files": {
+        "chargers": "a2a/chargers.xlsx",
+        "sessions": "a2a/sessions.xlsx",
+        "alarms": "a2a/alarms.xlsx"
+      }
+    },
+    {
+      "id": "c2gether",
+      "name": "C2gether",
+      "files": {
+        "chargers": "c2gether/chargers.xlsx",
+        "sessions": "c2gether/sessions.xlsx",
+        "alarms": "c2gether/alarms.xlsx"
+      }
+    },
+    {
+      "id": "circontrol-parking",
+      "name": "Circontrol Parking",
+      "files": {
+        "chargers": "circontrol-parking/chargers.xlsx",
+        "sessions": "circontrol-parking/sessions.xlsx",
+        "alarms": "circontrol-parking/alarms.xlsx"
+      }
     }
   ]
 }
